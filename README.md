@@ -1,5 +1,7 @@
 # Battery Level Indicator Percentage
 
+[LIVE-DEMO](https://rroderickk.github.io/battery-level-indicator/)
+
 - Battery Level Indicator Percentage Using HTML CSS & JavaScript .
 - Beautiful pill style battery.
 - With animation of low battery, charging battery and full battery.
